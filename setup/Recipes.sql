@@ -1,0 +1,8 @@
+SELECT TOP (1000) [Id]
+      ,[Name]
+      ,[Description]
+      ,[Image]
+      ,[RecipeDetail]
+      ,[CategoryId]
+      ,[Detail]
+  FROM [WebNauAn].[dbo].[Recipes]
