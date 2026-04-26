@@ -67,13 +67,13 @@
 * **thêm, sửa, xóa món**
 ## 7. Cấu trúc thư mục repository
 **WebNauAn**
-**│── README.md**
-**├── src/**
-**│       ├── bin/                        # Chứa các file thư viện đã biên dịch (.dll)**
-**│       ├── images/                     # Chứa toàn bộ hình ảnh hiển thị trên website**
-**│       ├── obj/                        # Các file tạm tạo ra trong quá trình build**
-**│       ├── Properties/                 # Cấu hình thuộc tính của dự án**
-**│       ├── Admin/                      # Trang quản trị (Giao diện)**
+* **│── README.md**
+* **├── src/**
+* **│       ├── bin/                        # Chứa các file thư viện đã biên dịch (.dll)**
+* **│       ├── images/                     # Chứa toàn bộ hình ảnh hiển thị trên website**
+* **│       ├── obj/                        # Các file tạm tạo ra trong quá trình build**
+* **│       ├── Properties/                 # Cấu hình thuộc tính của dự án**
+* **│       ├── Admin/                      # Trang quản trị (Giao diện)**
 **│       ├── Category/                   # Trang danh mục món ăn**
 **│       ├── Default/                    # Trang chủ chính của website**
 **│       ├── Detail/                     # Trang chi tiết từng món ăn**
