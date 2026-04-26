@@ -69,9 +69,9 @@
 **WebNauAn**
 * **│── README.md**
 * **├── src/**
-* **│       ├── bin/                        # Chứa các file thư viện đã biên dịch (.dll)**
-* **│       ├── images/                     # Chứa toàn bộ hình ảnh hiển thị trên website**
-* **│       ├── obj/                        # Các file tạm tạo ra trong quá trình build**
+* **│       ├── bin/**                    **# Chứa các file thư viện đã biên dịch (.dll)**
+* **│       ├── images/**                    **# Chứa toàn bộ hình ảnh hiển thị trên website**
+* **│       ├── obj/**                    **# Các file tạm tạo ra trong quá trình build**
 * **│       ├── Properties/                 # Cấu hình thuộc tính của dự án**
 * **│       ├── Admin/                      # Trang quản trị (Giao diện)**
 * **│       ├── Category/                   # Trang danh mục món ăn**
