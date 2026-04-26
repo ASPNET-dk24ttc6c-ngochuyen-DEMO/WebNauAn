@@ -74,26 +74,26 @@
 * **│       ├── obj/                        # Các file tạm tạo ra trong quá trình build**
 * **│       ├── Properties/                 # Cấu hình thuộc tính của dự án**
 * **│       ├── Admin/                      # Trang quản trị (Giao diện)**
-**│       ├── Category/                   # Trang danh mục món ăn**
-**│       ├── Default/                    # Trang chủ chính của website**
-**│       ├── Detail/                     # Trang chi tiết từng món ăn**
-**│       ├── Gdien/                       # File giao diện mẫu chung (Master Page)**
-**│       ├── Login/                      # Trang đăng nhập**
-**│       ├── Logout/                     # Trang đăng xuất**
-**│       ├── ManageRecipe/              # Trang quản lý công thức nấu ăn**
-**│       ├── packages.config             # Quản lý các gói thư viện NuGet đã cài**
-**│       ├── Web.config                  # File cấu hình chính của toàn bộ dự án**
-**│       ├── Web.Debug.config            # Cấu hình khi chạy thử (Debug)**
-**│       ├── Web.Release.config          # Cấu hình khi xuất bản (Release)**
-**│       ├── WebNauAn.csproj             # File dự án chính (mở bằng Visual Studio)**
-**│       └── WebNauAn.csproj.user        # Cấu hình riêng của người dùng Visual Studio**
-**├── setup/**
-**│   ├──Category.sql**
-**│   ├── Recipes.sql**
-**│   ├── User.sql**
-**│   ├── SQL main.sql**
-**├── progress-report/**
-**│   ├── progress-week1-4**
-**├── thesis/**
-**│   ├── doc/**
-**│   ├── refs/**
+* **│       ├── Category/                   # Trang danh mục món ăn**
+* **│       ├── Default/                    # Trang chủ chính của website**
+* **│       ├── Detail/                     # Trang chi tiết từng món ăn**
+* **│       ├── Gdien/                       # File giao diện mẫu chung (Master Page)**
+* **│       ├── Login/                      # Trang đăng nhập**
+* **│       ├── Logout/                     # Trang đăng xuất**
+* **│       ├── ManageRecipe/              # Trang quản lý công thức nấu ăn**
+* **│       ├── packages.config             # Quản lý các gói thư viện NuGet đã cài**
+* **│       ├── Web.config                  # File cấu hình chính của toàn bộ dự án**
+* **│       ├── Web.Debug.config            # Cấu hình khi chạy thử (Debug)**
+* **│       ├── Web.Release.config          # Cấu hình khi xuất bản (Release)**
+* **│       ├── WebNauAn.csproj             # File dự án chính (mở bằng Visual Studio)**
+* **│       └── WebNauAn.csproj.user        # Cấu hình riêng của người dùng Visual Studio**
+* **├── setup/**
+* **│   ├──Category.sql**
+* **│   ├── Recipes.sql**
+* **│   ├── User.sql**
+* **│   ├── SQL main.sql**
+* **├── progress-report/**
+* **│   ├── progress-week1-4**
+* **├── thesis/**
+* **│   ├── doc/**
+* **│   ├── refs/**
